@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(99, 99, 99);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.title{
+    font-size: 60px;
+    color: beige;
+}
+.containerInput{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 8px;
+}
